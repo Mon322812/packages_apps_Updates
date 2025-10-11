@@ -68,3 +68,4 @@ keyPassword=$KEY_PASSWORD
 storeFile=$KEYSTORE_PATH
 storePassword=$KEYSTORE_PASSWORD
 EOF
+
